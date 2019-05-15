@@ -12,8 +12,7 @@ This is a project to predict real estate value in Xindian district, based on sev
 * 2_graphic_information_processing.ipynb [Jupyter notebook]
 * (on going) regression analysis
 * Real estate valuation data set.xlsx [XLXS file]
-* Folder:
- ** maps: Summary maps
+* [Folder] maps: Summary maps
   
 ## Source of data
 UCI Machine Learning Repository: __[Real estate valuation Dataset](https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set)__
