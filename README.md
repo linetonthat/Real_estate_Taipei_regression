@@ -11,7 +11,7 @@ This is a project to predict real estate value in Xindian district, based on sev
 * 1_Problem_description_and_EDA.ipynb [Jupyter notebook]
 * 2_graphic_information_processing.ipynb [Jupyter notebook]
 * 3_Spot_checking_algorithms.ipynb [Jupyter notebook]
-* (on going) regression analysis: model fine tuning and conclusion
+* 4_Model_fine_tuning.ipynb [Jupyter notebook]
 * Real estate valuation data set.xlsx [XLXS file]
 * [Folder] maps: Summary maps
 * [Folder] template: Spot_checking_regression [Python script]
